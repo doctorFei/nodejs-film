@@ -1,0 +1,31 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "movies collection",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "jade": "^1.11.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.7.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [
+    "movies",
+    "collection"
+  ],
+}
